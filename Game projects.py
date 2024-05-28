@@ -19,7 +19,7 @@ ans_y = ["yes","Yes","ok"]
 ans_n = ["no","No","Nope"]
 
 if ans in ans_n:
-    print("Thank you! Now fuck off !!!! ")
+    print("No worries. Thank you!")
 elif ans in ans_y:
     input(ans1)
 
